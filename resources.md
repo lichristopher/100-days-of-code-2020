@@ -22,8 +22,15 @@
 - [My First #100DaysOfCode Experience](https://codeburst.io/my-first-100daysofcode-experience-79ff19c5c5b7)
 - [How I got my Software Engineering Internship after 4 months of Self-Study](https://medium.com/free-code-camp/how-i-got-my-software-engineering-internship-after-4-months-of-self-study-5b5c4836bd6f)
 - [How I Went From No Coding Experience to a Microsoft Offer in 1 Year](https://medium.com/swlh/how-i-went-from-no-coding-experience-to-a-microsoft-offer-in-1-year-91d7b8c8b464)
-- [Which curriculum to follow to learn Computer Science?](https://www.reddit.com/r/learnprogramming/comments/amg7hf/which_curriculum_to_follow_to_learn_computer/)
 - [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+- [REDDIT PH: SOFTWARE DEV Q&A](https://roytang.net/2019/02/reddit-ph-software-dev-qa/)
+- [Learning to Code: How to Think Like a Programmer](https://zapier.com/blog/think-like-a-programmer/)
+
+## Reddit
+- [Which curriculum to follow to learn Computer Science?](https://www.reddit.com/r/learnprogramming/comments/amg7hf/which_curriculum_to_follow_to_learn_computer/)
+
+## Quora
+- https://www.quora.com/As-a-beginner-what-are-the-best-ways-to-approach-Computer-Science
 
 ## Podcasts
 1. Syntax.fm
@@ -38,14 +45,13 @@
 
 ## Interview
 - [front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
 ## SQL
 - SQL Police Department(https://sqlpd.com/)
-
 
 ## Helpful Coding Videos
 - [Code is for Humans By Kyle Simpson](https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/)
 - [JavaScript Best Practices and Coding Conventions - Write Clean Code](https://www.youtube.com/watch?v=RMN_bkZ1KM0)
-
 
 ## Helpful Non-Coding Videos
 - [Applying the science of habit formation to improve coding skills - Alex Kallaway](https://www.youtube.com/watch?v=kFjQAasFWUw)
@@ -57,7 +63,6 @@
 - [Essential Guide to the 100 Days of Code Challenge](https://www.software.com/src/essential-guide-to-the-100-days-of-code-challenge)
 - [✅ Every time you build a to-do list app, a puppy ? dies ?](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/)
 
-
 ## Helpful Websites
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [CSS Gradient — Generator, Maker, and Background](https://cssgradient.io)
@@ -68,6 +73,7 @@
 - [https://jscomplete.com/](https://jscomplete.com/)
 - [Font Freak](https://www.fontfreak.com/)
 - [Interviewbit](https://www.interviewbit.com/)
+
 ## Roadmaps
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -81,7 +87,6 @@
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 3. [Full-Stack Open](https://fullstackopen.com/en/about/)
-
 
 ## Tools
 - [Swagger](https://swagger.io/docs/)
@@ -107,7 +112,6 @@
 - [JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language 7th Edition](https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024)
 - [CSS: The Definitive Guide: Visual Presentation for the Web 4th Edition](https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/ref=pd_bxgy_img_3/144-1237297-1824562?_encoding=UTF8&pd_rd_i=1449393195&pd_rd_r=a3d3277b-ef3a-48be-97d1-ddcd91406277&pd_rd_w=QTeQl&pd_rd_wg=RBShI&pf_rd_p=4e3f7fc3-00c8-46a6-a4db-8457e6319578&pf_rd_r=6K86RBXWDD3JJWR9E7AY&psc=1&refRID=6K86RBXWDD3JJWR9E7AY)
 - [Front-End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
-
 
 ## Contents
 * [Rules](rules.md)
