@@ -23,7 +23,7 @@
 - [How I got my Software Engineering Internship after 4 months of Self-Study](https://medium.com/free-code-camp/how-i-got-my-software-engineering-internship-after-4-months-of-self-study-5b5c4836bd6f)
 - [How I Went From No Coding Experience to a Microsoft Offer in 1 Year](https://medium.com/swlh/how-i-went-from-no-coding-experience-to-a-microsoft-offer-in-1-year-91d7b8c8b464)
 
-### Podcasts
+## Podcasts
 1. Syntax.fm
 2. Chats with Kent
 3. Front End Happy Hour
