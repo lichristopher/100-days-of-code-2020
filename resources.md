@@ -7,8 +7,8 @@
 - [Do I really need X years of experience? How to read a software engineering job description](https://medium.com/job-advice-for-software-engineers/how-to-read-a-software-engineering-job-description-do-i-really-need-x-years-of-experience-1c266de1c070)
 
 ## To Read 
-1. [] [38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
-2. [] [Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
+1. [ ] [38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
+2. [ ] [Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
 
 ## Articles
 - [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
