@@ -2,15 +2,15 @@
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
-### Resume
+## Resume
 -[What I want (and don’t want) to see on your software engineering resume](https://medium.com/job-advice-for-software-engineers/what-i-want-and-dont-want-to-see-on-your-software-engineering-resume-cbc07913f7f6)
 -[Do I really need X years of experience? How to read a software engineering job description](https://medium.com/job-advice-for-software-engineers/how-to-read-a-software-engineering-job-description-do-i-really-need-x-years-of-experience-1c266de1c070)
 
-### To Read 
+## To Read 
 1. [38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 2. [Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
 
-### Articles
+## Articles
 - [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 - [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b)
 - [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html)
