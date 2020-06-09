@@ -18,6 +18,7 @@
 ## Coding Articles
 - [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/2020-06-05-15-must-know-javascript-array-methods/)
 - [Javascript Jems - Asynchronous Patterns And Closure](https://www.i-programmer.info/programming/javascript/1038-javascript-jems-asynchronous-patterns.html)
+- [Understanding JavaScript Closures](https://javascriptweblog.wordpress.com/2010/10/25/understanding-javascript-closures/)
 
 ## Non-Coding Articles
 - [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html)
