@@ -7,13 +7,13 @@
 - [Do I really need X years of experience? How to read a software engineering job description](https://medium.com/job-advice-for-software-engineers/how-to-read-a-software-engineering-job-description-do-i-really-need-x-years-of-experience-1c266de1c070)
 
 ## To Read 
-[ ][38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
-[ ][Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
-[ ][5 Lessons I’ve Learned on How to Structure Code](https://levelup.gitconnected.com/5-lessons-ive-learned-on-how-to-structure-code-6d662df0fd1f)
-[ ][How To Approach Programming As A Code Newbie 🤔](https://dev.to/catalinmpit/how-to-approach-programming-as-a-code-newbie-1mja)
-[ ][TRUE PROGRAMMERS NEVER STOP LEARNING](https://www.codingame.com/blog/true-programmers-never-stop-learning/)
-[ ][HOW I REGAINED CONFIDENCE IN MY PROGRAMMING SKILLS](https://www.codingame.com/blog/how-i-regained-confidence-in-my-programming-skills/)
-[ ][How learning Smalltalk can make you a better developer](https://techbeacon.com/app-dev-testing/how-learning-smalltalk-can-make-you-better-developer)
+- [ ] [38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
+- [ ] [Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
+- [ ] [5 Lessons I’ve Learned on How to Structure Code](https://levelup.gitconnected.com/5-lessons-ive-learned-on-how-to-structure-code-6d662df0fd1f)
+- [ ] [How To Approach Programming As A Code Newbie 🤔](https://dev.to/catalinmpit/how-to-approach-programming-as-a-code-newbie-1mja)
+- [ ] [TRUE PROGRAMMERS NEVER STOP LEARNING](https://www.codingame.com/blog/true-programmers-never-stop-learning/)
+- [ ] [HOW I REGAINED CONFIDENCE IN MY PROGRAMMING SKILLS](https://www.codingame.com/blog/how-i-regained-confidence-in-my-programming-skills/)
+- [ ] [How learning Smalltalk can make you a better developer](https://techbeacon.com/app-dev-testing/how-learning-smalltalk-can-make-you-better-developer)
 
 ## Coding Articles
 - [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/2020-06-05-15-must-know-javascript-array-methods/)
