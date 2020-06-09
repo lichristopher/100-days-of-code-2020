@@ -7,23 +7,23 @@
 - [Do I really need X years of experience? How to read a software engineering job description](https://medium.com/job-advice-for-software-engineers/how-to-read-a-software-engineering-job-description-do-i-really-need-x-years-of-experience-1c266de1c070)
 
 ## To Read 
-[ ] [38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
-[ ] [Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
-[ ] [5 Lessons I’ve Learned on How to Structure Code](https://levelup.gitconnected.com/5-lessons-ive-learned-on-how-to-structure-code-6d662df0fd1f)
-[ ] [How To Approach Programming As A Code Newbie 🤔](https://dev.to/catalinmpit/how-to-approach-programming-as-a-code-newbie-1mja)
-[ ] [TRUE PROGRAMMERS NEVER STOP LEARNING](https://www.codingame.com/blog/true-programmers-never-stop-learning/)
-[ ] [HOW I REGAINED CONFIDENCE IN MY PROGRAMMING SKILLS](https://www.codingame.com/blog/how-i-regained-confidence-in-my-programming-skills/)
-[ ] [How learning Smalltalk can make you a better developer](https://techbeacon.com/app-dev-testing/how-learning-smalltalk-can-make-you-better-developer)
+[ ][38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
+[ ][Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
+[ ][5 Lessons I’ve Learned on How to Structure Code](https://levelup.gitconnected.com/5-lessons-ive-learned-on-how-to-structure-code-6d662df0fd1f)
+[ ][How To Approach Programming As A Code Newbie 🤔](https://dev.to/catalinmpit/how-to-approach-programming-as-a-code-newbie-1mja)
+[ ][TRUE PROGRAMMERS NEVER STOP LEARNING](https://www.codingame.com/blog/true-programmers-never-stop-learning/)
+[ ][HOW I REGAINED CONFIDENCE IN MY PROGRAMMING SKILLS](https://www.codingame.com/blog/how-i-regained-confidence-in-my-programming-skills/)
+[ ][How learning Smalltalk can make you a better developer](https://techbeacon.com/app-dev-testing/how-learning-smalltalk-can-make-you-better-developer)
 
 ## Coding Articles
 - [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/2020-06-05-15-must-know-javascript-array-methods/)
-- [Javascript Jems - Asynchronous Patterns And Closure](https://www.i-programmer.info/programming/javascript1038-javascript-jems-asynchronous-patterns.html)
+- [Javascript Jems - Asynchronous Patterns And Closure](https://www.i-programmer.info/programming/javascript/1038-javascript-jems-asynchronous-patterns.html)
 
 ## Non-Coding Articles
 - [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html)
 - [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
 - ["My Patchy Journey To Software Development" Series 🌦️💻⚡](https://dev.to/catalinmpit/my-patchy-journey-to-software-development-series-4254)
-- [https://www.freecodecamp.org/news/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc/](https://www.freecodecamp.org/news/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc/)
+- [What I learned from reviewing 50 portfolios on Reddit in 3 crazy days.](https://www.freecodecamp.org/news/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc/)
 - [Transition from learner to developer](https://kris.ventures/blog/from-learner-to-developer/)
 - [5 Tips To Make 100DaysOfCode Effective For Everyone!](https://medium.com/undefined-developer/5-tips-to-make-100daysofcode-effective-for-everyone-3695587aad64)
 - [My First #100DaysOfCode Experience](https://codeburst.io/my-first-100daysofcode-experience-79ff19c5c5b7)
