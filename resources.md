@@ -7,12 +7,19 @@
 - [Do I really need X years of experience? How to read a software engineering job description](https://medium.com/job-advice-for-software-engineers/how-to-read-a-software-engineering-job-description-do-i-really-need-x-years-of-experience-1c266de1c070)
 
 ## To Read 
-1. [ ] [38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
-2. [ ] [Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
+[ ] [38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
+[ ] [Become the junior developer that companies want to hire.](https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8)
+[ ] [5 Lessons I’ve Learned on How to Structure Code](https://levelup.gitconnected.com/5-lessons-ive-learned-on-how-to-structure-code-6d662df0fd1f)
+[ ] [How To Approach Programming As A Code Newbie 🤔](https://dev.to/catalinmpit/how-to-approach-programming-as-a-code-newbie-1mja)
+[ ] [TRUE PROGRAMMERS NEVER STOP LEARNING](https://www.codingame.com/blog/true-programmers-never-stop-learning/)
+[ ] [HOW I REGAINED CONFIDENCE IN MY PROGRAMMING SKILLS](https://www.codingame.com/blog/how-i-regained-confidence-in-my-programming-skills/)
+[ ] [How learning Smalltalk can make you a better developer](https://techbeacon.com/app-dev-testing/how-learning-smalltalk-can-make-you-better-developer)
 
-## Articles
-- [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-- [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b)
+## Coding Articles
+- [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/2020-06-05-15-must-know-javascript-array-methods/)
+- [Javascript Jems - Asynchronous Patterns And Closure](https://www.i-programmer.info/programming/javascript1038-javascript-jems-asynchronous-patterns.html)
+
+## Non-Coding Articles
 - [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html)
 - [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
 - ["My Patchy Journey To Software Development" Series 🌦️💻⚡](https://dev.to/catalinmpit/my-patchy-journey-to-software-development-series-4254)
@@ -25,12 +32,19 @@
 - [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 - [REDDIT PH: SOFTWARE DEV Q&A](https://roytang.net/2019/02/reddit-ph-software-dev-qa/)
 - [Learning to Code: How to Think Like a Programmer](https://zapier.com/blog/think-like-a-programmer/)
+- [How to Stay Motivated to Keep Learning to Code](https://www.freecodecamp.org/news/how-to-stay-motivated-to-keep-learning-to-code/?fbclid=IwAR2Uz7YOHt12mbNWh8F1votOP9FCwQs9H54yMdnGHvY3w5cg_vcB3s58BOs)
+- [✅ Every time you build a to-do list app, a puppy ? dies ?](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/)
 
 ## Reddit
 - [Which curriculum to follow to learn Computer Science?](https://www.reddit.com/r/learnprogramming/comments/amg7hf/which_curriculum_to_follow_to_learn_computer/)
+- [What's the current, best way to self-teach SQL?](https://www.reddit.com/r/learnprogramming/comments/5m6ey6/whats_the_current_best_way_to_selfteach_sql/)
+- [You missed out the WHERE clause : talesfromtechsupport](https://www.reddit.com/r/talesfromtechsupport/comments/1pvck3/you_missed_out_the_where_clause/)
 
 ## Quora
-- https://www.quora.com/As-a-beginner-what-are-the-best-ways-to-approach-Computer-Science
+- [As a beginner, what are the best ways to approach Computer Science?](https://www.quora.com/As-a-beginner-what-are-the-best-ways-to-approach-Computer-Science)
+- [Why do most newbies go blindly into programming and end up in tutorial hell as it’s known in the discipline?](https://www.quora.com/Why-do-most-newbies-go-blindly-into-programming-and-end-up-in-tutorial-hell-as-it-s-known-in-the-discipline)
+- [Why is tutorial hell such a common problem in the software community, especially for beginners?](https://www.quora.com/Why-is-tutorial-hell-such-a-common-problem-in-the-software-community-especially-for-beginners)
+- [I have been learning to program (JavaScript) for about a year now but I am still not able to develop anything by myself, I can’t give up. How do I better myself?](https://www.quora.com/q/become-a-great-programmer/I-have-been-learning-to-program-JavaScript-for-about-a-year-now-but-I-am-still-not-able-to-develop-anything-by-myself)
 
 ## Podcasts
 1. Syntax.fm
@@ -47,21 +61,17 @@
 - [front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## SQL
-- SQL Police Department(https://sqlpd.com/)
+- [SQL Police Department](https://sqlpd.com/)
+- [Study By Yourself SQL](http://studybyyourself.com/seminar/sql/course/?lang=en)
 
 ## Helpful Coding Videos
 - [Code is for Humans By Kyle Simpson](https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/)
 - [JavaScript Best Practices and Coding Conventions - Write Clean Code](https://www.youtube.com/watch?v=RMN_bkZ1KM0)
+- [Live Mock Technical Interview - JavaScript](https://www.youtube.com/watch?v=057Rs6CgJnY)
 
 ## Helpful Non-Coding Videos
 - [Applying the science of habit formation to improve coding skills - Alex Kallaway](https://www.youtube.com/watch?v=kFjQAasFWUw)
 - [Behavioral Interviews for Software Engineers](https://www.youtube.com/watch?v=zIJ1qRCPHUw&t=0s)
-
-
-## Helpful Articles
-- [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html)
-- [Essential Guide to the 100 Days of Code Challenge](https://www.software.com/src/essential-guide-to-the-100-days-of-code-challenge)
-- [✅ Every time you build a to-do list app, a puppy ? dies ?](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/)
 
 ## Helpful Websites
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
@@ -73,11 +83,16 @@
 - [https://jscomplete.com/](https://jscomplete.com/)
 - [Font Freak](https://www.fontfreak.com/)
 - [Interviewbit](https://www.interviewbit.com/)
+- [Codesmith CSX](https://www.codesmith.io/javascript-resources#resources-new-to-coding)
+- [I-Programmer](https://www.i-programmer.info/programming/javascript.html)
+- [Coding for Kids - Live](https://www.codingelements.com/course/coding-for-kids-live/)
 
 ## Roadmaps
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Getting B.S. in CS” without Getting B.S. in CS](https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview?usp=sharing#)
+- [Codesmith Full-time Remote](https://codesmithdocs.s3-us-west-1.amazonaws.com/Codesmith+Documents/Full-time-remote-syllabus.pdf)
+- [Codesmith Part-time Remote](https://codesmithdocs.s3-us-west-1.amazonaws.com/Codesmith+Documents/Codesmith-part-time-remote-syllabus.pdf)
 - [P1xt](https://github.com/P1xt/p1xt-guides)
 - [OSSU](https://github.com/ossu/computer-science)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
@@ -98,9 +113,6 @@
 ## Challenges
 - [Javascript 30](https://javascript30.com/)
 - [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
-
-## Other resources
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
 ## Books (both coding and non-coding)
 
