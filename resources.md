@@ -35,11 +35,20 @@
 - [Learning to Code: How to Think Like a Programmer](https://zapier.com/blog/think-like-a-programmer/)
 - [How to Stay Motivated to Keep Learning to Code](https://www.freecodecamp.org/news/how-to-stay-motivated-to-keep-learning-to-code/?fbclid=IwAR2Uz7YOHt12mbNWh8F1votOP9FCwQs9H54yMdnGHvY3w5cg_vcB3s58BOs)
 - [✅ Every time you build a to-do list app, a puppy ? dies ?](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/)
+- [How to create the PERFECT ROUTINE to learn CODE](http://codedad.co.uk/create-perfect-routine-learn-code/)
+- [The Study Plan Schedule Strategy (That Actually Works!)](https://www.developgoodhabits.com/study-schedule/)
+- [11 Good Study Habits to Better Understand Your Lessons](https://www.developgoodhabits.com/good-study-routine/)
+- [Note-taking for Interviews](https://www.linkedin.com/pulse/note-taking-tips-interviews-milad-naseri/)
+- [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/)
+- [Creating Your Programming Study Plan](https://dev.to/pmihaylov/creating-your-programming-study-plan-448e)
+- [How to study effectively as a full-time developer](https://pmihaylov.com/how-to-study-effectively-as-a-full-time-developer/)
 
 ## Reddit
 - [Which curriculum to follow to learn Computer Science?](https://www.reddit.com/r/learnprogramming/comments/amg7hf/which_curriculum_to_follow_to_learn_computer/)
 - [What's the current, best way to self-teach SQL?](https://www.reddit.com/r/learnprogramming/comments/5m6ey6/whats_the_current_best_way_to_selfteach_sql/)
 - [You missed out the WHERE clause : talesfromtechsupport](https://www.reddit.com/r/talesfromtechsupport/comments/1pvck3/you_missed_out_the_where_clause/)
+- [Optimal study plan for newcomers](https://www.reddit.com/r/learnprogramming/comments/91ffz9/optimal_study_plan_for_newcomers/)
+- [If learning to program, how much time do you usually devote to it everyday?](https://www.reddit.com/r/learnprogramming/comments/2ie639/if_learning_to_program_how_much_time_do_you/)
 
 ## Quora
 - [As a beginner, what are the best ways to approach Computer Science?](https://www.quora.com/As-a-beginner-what-are-the-best-ways-to-approach-Computer-Science)
@@ -98,6 +107,10 @@
 - [OSSU](https://github.com/ossu/computer-science)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
@@ -106,10 +119,10 @@
 
 ## Tools
 - [Swagger](https://swagger.io/docs/)
+
 ## Learning How to Learn Courses
 - [How to Learn Math: For Students | Stanford Online](https://online.stanford.edu/courses/gse-yeduc115-s-how-learn-math-students)
-- [Learning How to Learn: Powerful mental tools to help you master tough subjects
-](https://www.coursera.org/learn/learning-how-to-learn)
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
 
 ## Challenges
 - [Javascript 30](https://javascript30.com/)
