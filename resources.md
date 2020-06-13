@@ -14,6 +14,7 @@
 - [ ] [TRUE PROGRAMMERS NEVER STOP LEARNING](https://www.codingame.com/blog/true-programmers-never-stop-learning/)
 - [ ] [HOW I REGAINED CONFIDENCE IN MY PROGRAMMING SKILLS](https://www.codingame.com/blog/how-i-regained-confidence-in-my-programming-skills/)
 - [ ] [How learning Smalltalk can make you a better developer](https://techbeacon.com/app-dev-testing/how-learning-smalltalk-can-make-you-better-developer)
+- [ ] [React Project Structure Best Practices for Scalable Application](https://dev.to/syakirurahman/react-project-structure-best-practices-for-scalable-application-18kk?fbclid=IwAR2kGjr-MkXoCHil0e_Ue6JeCIs0zcTKjdyXAJQtYoVZSh-bIe48zNni8ig)
 
 ## Coding Articles
 - [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/2020-06-05-15-must-know-javascript-array-methods/)
@@ -49,6 +50,14 @@
 - [You missed out the WHERE clause : talesfromtechsupport](https://www.reddit.com/r/talesfromtechsupport/comments/1pvck3/you_missed_out_the_where_clause/)
 - [Optimal study plan for newcomers](https://www.reddit.com/r/learnprogramming/comments/91ffz9/optimal_study_plan_for_newcomers/)
 - [If learning to program, how much time do you usually devote to it everyday?](https://www.reddit.com/r/learnprogramming/comments/2ie639/if_learning_to_program_how_much_time_do_you/)
+- [The ODIN Project vs University of Helsinki Fullstackopen?](https://www.reddit.com/r/learnprogramming/comments/c8oyws/the_odin_project_vs_university_of_helsinki/)
+- [The Odin Project in 2020?](https://www.reddit.com/r/learnprogramming/comments/f527r8/the_odin_project_in_2020/)
+- [Should I mix Free Code Camp with The Odin Project, or just commit to FCC? 2020](https://www.reddit.com/r/learnprogramming/comments/g136py/should_i_mix_free_code_camp_with_the_odin_project/)
+- [Anyone have any experience learning with The Odin Project?](https://www.reddit.com/r/learnprogramming/comments/89o3oj/anyone_have_any_experience_learning_with_the_odin/)
+- [The Odin Project - 8 weeks of progress (part time)](https://www.reddit.com/r/learnprogramming/comments/ewcgtv/the_odin_project_8_weeks_of_progress_part_time/)
+- [Alumni of The Odin Project - How have you found things since completing?](https://www.reddit.com/r/learnprogramming/comments/e8o40c/alumni_of_the_odin_project_how_have_you_found/)
+- [The Odin Project still worth to go through in 2020?](https://www.reddit.com/r/learnprogramming/comments/fjgcya/the_odin_project_still_worth_to_go_through_in_2020/)
+- [Started learning web development with The Odin Project around 8 months ago, and this is my first big project that I'm happy with](https://www.reddit.com/r/webdev/comments/gtiybj/started_learning_web_development_with_the_odin/)
 
 ## Quora
 - [As a beginner, what are the best ways to approach Computer Science?](https://www.quora.com/As-a-beginner-what-are-the-best-ways-to-approach-Computer-Science)
