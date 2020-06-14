@@ -58,7 +58,8 @@
 - [Alumni of The Odin Project - How have you found things since completing?](https://www.reddit.com/r/learnprogramming/comments/e8o40c/alumni_of_the_odin_project_how_have_you_found/)
 - [The Odin Project still worth to go through in 2020?](https://www.reddit.com/r/learnprogramming/comments/fjgcya/the_odin_project_still_worth_to_go_through_in_2020/)
 - [Started learning web development with The Odin Project around 8 months ago, and this is my first big project that I'm happy with](https://www.reddit.com/r/webdev/comments/gtiybj/started_learning_web_development_with_the_odin/)
-
+- [My (5+5)-step self-taught CS curriculum [Updated]](https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/)
+- [Why ‘working on a project you like’ isn’t always the right answer](https://www.reddit.com/r/learnprogramming/comments/cxlqc4/why_working_on_a_project_you_like_isnt_always_the/)
 ## Quora
 - [As a beginner, what are the best ways to approach Computer Science?](https://www.quora.com/As-a-beginner-what-are-the-best-ways-to-approach-Computer-Science)
 - [Why do most newbies go blindly into programming and end up in tutorial hell as it’s known in the discipline?](https://www.quora.com/Why-do-most-newbies-go-blindly-into-programming-and-end-up-in-tutorial-hell-as-it-s-known-in-the-discipline)
@@ -73,6 +74,7 @@
 5. CodeNewbie
 6. Full Stack Radio
 7. The Freelancer Podcast
+8. Egghead Podcast
 
 # Additional Resources on the #100DaysOfCode
 
