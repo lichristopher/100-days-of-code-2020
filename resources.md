@@ -2,6 +2,13 @@
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
+## Success Stories
+- [https://forum.theodinproject.com/t/on-self-teaching-and-getting-a-job/19858]
+- [https://dev.to/stefanhk31/how-i-became-a-developer-in-six-months-and-counting-2b94]
+- [https://hackernoon.com/from-zero-to-hero-how-i-became-a-professional-developer-in-a-year-26114ebc9724]
+- [https://medium.com/@codyloyd/from-0-to-employed-in-one-year-45e3787d1b50]
+- [https://dev.to/stefanhk31/how-i-became-a-developer-in-six-months-and-counting-2b94]
+
 ## Resume
 - [What I want (and don’t want) to see on your software engineering resume](https://medium.com/job-advice-for-software-engineers/what-i-want-and-dont-want-to-see-on-your-software-engineering-resume-cbc07913f7f6)
 - [Do I really need X years of experience? How to read a software engineering job description](https://medium.com/job-advice-for-software-engineers/how-to-read-a-software-engineering-job-description-do-i-really-need-x-years-of-experience-1c266de1c070)
