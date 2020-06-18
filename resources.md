@@ -8,6 +8,8 @@
 - [https://hackernoon.com/from-zero-to-hero-how-i-became-a-professional-developer-in-a-year-26114ebc9724]
 - [https://medium.com/@codyloyd/from-0-to-employed-in-one-year-45e3787d1b50]
 - [https://dev.to/stefanhk31/how-i-became-a-developer-in-six-months-and-counting-2b94]
+- [https://hackernoon.com/from-zero-to-hero-how-i-became-a-professional-developer-in-a-year-26114ebc9724]
+
 
 ## Resume
 - [What I want (and don’t want) to see on your software engineering resume](https://medium.com/job-advice-for-software-engineers/what-i-want-and-dont-want-to-see-on-your-software-engineering-resume-cbc07913f7f6)
@@ -22,6 +24,8 @@
 - [ ] [HOW I REGAINED CONFIDENCE IN MY PROGRAMMING SKILLS](https://www.codingame.com/blog/how-i-regained-confidence-in-my-programming-skills/)
 - [ ] [How learning Smalltalk can make you a better developer](https://techbeacon.com/app-dev-testing/how-learning-smalltalk-can-make-you-better-developer)
 - [ ] [React Project Structure Best Practices for Scalable Application](https://dev.to/syakirurahman/react-project-structure-best-practices-for-scalable-application-18kk?fbclid=IwAR2kGjr-MkXoCHil0e_Ue6JeCIs0zcTKjdyXAJQtYoVZSh-bIe48zNni8ig)
+- [Programming Principles for Beginners](https://hackernoon.com/programming-principles-for-beginners-ug733v8e)
+
 
 ## Coding Articles
 - [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/2020-06-05-15-must-know-javascript-array-methods/)
@@ -29,6 +33,7 @@
 - [Understanding JavaScript Closures](https://javascriptweblog.wordpress.com/2010/10/25/understanding-javascript-closures/)
 
 ## Non-Coding Articles
+- [8 Helpful Remote Learning Resources for College Students](https://hackernoon.com/8-helpful-remote-learning-resources-for-college-students-ah3h3y3u)
 - [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html)
 - [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
 - ["My Patchy Journey To Software Development" Series 🌦️💻⚡](https://dev.to/catalinmpit/my-patchy-journey-to-software-development-series-4254)
@@ -50,6 +55,9 @@
 - [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/)
 - [Creating Your Programming Study Plan](https://dev.to/pmihaylov/creating-your-programming-study-plan-448e)
 - [How to study effectively as a full-time developer](https://pmihaylov.com/how-to-study-effectively-as-a-full-time-developer/)
+- [Learning How to Learn](https://dev.to/stefanhk31/learning-how-to-learn-----2bb5)
+- [9 Learning Tips To Be On Top Of Your Online Learning Platform's Schedules](https://hackernoon.com/9-learning-tips-to-be-on-top-of-your-online-learning-platforms-schedules-3fi732e8)
+
 
 ## Reddit
 - [Which curriculum to follow to learn Computer Science?](https://www.reddit.com/r/learnprogramming/comments/amg7hf/which_curriculum_to_follow_to_learn_computer/)
