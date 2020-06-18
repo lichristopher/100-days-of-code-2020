@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [July 4, Thursday, 2020].
 
 ## Log
 
-### R1D1 
+<!-- ### R1D1 
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -12,6 +12,14 @@ The log of my #100DaysOfCode challenge. Started on [July 4, Thursday, 2020].
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
-### R1D2
+### R1D1
+
+**Pomodoro**: 🍅🍅🍅
+
+**Today's Progress** : Finished the HTML and CSS sections on freecodecamp
+
+**Stuff learned**
+- `<u></u>` is a deprecated tag.
+- `<del></del>` tag should be used instead of `<strike></strike>` or `<s></s>` because both of this tags are deprecated.
