@@ -1,6 +1,6 @@
 # Things to learn
 - Color Theory
-
+- How **cubic bezie works**
 
 ## CSS
 - [When to use flexbox](https://blog.logrocket.com/flexbox-vs-css-grid/)
