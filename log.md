@@ -16,10 +16,17 @@ The log of my #100DaysOfCode challenge. Started on [July 4, Thursday, 2020].
 
 ### R1D1
 
-**Pomodoro**: 🍅🍅🍅
+**Pomodoro**: 🍅🍅🍅🍅
 
-**Today's Progress** : Finished the HTML and CSS sections on freecodecamp
+**Today's Progress** : Finished the **HTML** and **CSS** sections on freecodecamp
 
 **Stuff learned**
 - `<u></u>` is a deprecated tag.
 - `<del></del>` tag should be used instead of `<strike></strike>` or `<s></s>` because both of this tags are deprecated.
+
+### R1D2
+**Pomodoro**: 🍅🍅
+
+**Today's Progress** : Completed the **Applied visual design** section on freecodecamp
+**Stuff learned**
+- learned about css animations and how <b>cubic bezier works</b>.
